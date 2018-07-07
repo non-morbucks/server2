@@ -2,7 +2,7 @@ const app = {
   db: {
     host: "ds259855.mlab.com",
     port: 59855,
-    name: "social",
+    name: "server2",
     username: "admin",
     password: "Wavei5795"
   },
